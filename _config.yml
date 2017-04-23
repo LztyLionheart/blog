@@ -69,6 +69,6 @@ theme: next
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repository: git@github.com:lzty280/lzty280.github.io.git
+  repository: git@github.com:LztyLionheart/LztyLionheart.github.io.git
   branch: master
 
