@@ -72,3 +72,9 @@ deploy:
   repository: git@github.com:LztyLionheart/LztyLionheart.github.io.git
   branch: master
 
+algolia:
+  applicationID: D58RT6DJMI
+  apiKey: 7196064c16165d6cc38424261b927fbe
+  adminApiKey: 51e0ae8844839eeaf05cd2a6ada82b0f
+  indexName: lzty_blog
+  chunkSize: 5000
